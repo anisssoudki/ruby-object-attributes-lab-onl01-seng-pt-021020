@@ -6,5 +6,10 @@ end
 def name
   @dog_name
 end
+
+def breed=(breed_name)
+  
+  @breed = breed_name
+
 end
 
